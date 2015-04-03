@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "YouTube Offline",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Watch your favourite videos from YouTube offline!",
+    "description": "The description of the application"
+  }
+}

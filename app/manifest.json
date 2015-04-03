@@ -12,7 +12,8 @@
     "scripts": [
       "scripts/chromereload.js",
       "scripts/background.js"
-    ]
+    ],
+    "persistent" : false
   },
   "page_action": {
     "default_icon": {
@@ -25,8 +26,8 @@
   "content_scripts": [
     {
       "matches": [
-        "http://*/*",
-        "https://*/*"
+        "http://youtube.com/*",
+        "https://youtube.com/*"
       ],
       "js": [
         "scripts/contentscript.js"
@@ -39,6 +40,8 @@
     "tabs",
     "management",
     "http://*/*",
-    "https://*/*"
+    "https://*/*",
+    "https://www.youtube.com/*",
+    "http://www.youtube.com/*"
   ]
 }

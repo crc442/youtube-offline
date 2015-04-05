@@ -1,3 +1,23 @@
 body {
-  padding: 20px;
+    padding: 20px;
+}
+
+#yt-offline-download-icon:before {
+    content: "➤|";
+    display: inline-block;
+    font-size: 14px;
+    color: #95a5a6;
+    cursor: pointer;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+}
+
+#yt-offline-dwld-icn {
+    background: no-repeat url(http://s.ytimg.com/yts/imgbin/www-hitchhiker-2x-vflvYpHIq.webp) -38px -317px;
+    background-size: 212px 647px;
+    width: 72px;
+    height: 30px;
 }

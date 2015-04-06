@@ -1,6 +1,8 @@
 {
   "name": "youtube-offline",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  },
   "devDependencies": {}
 }

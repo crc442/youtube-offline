@@ -1,0 +1,24 @@
+if (navigator.onLine) {
+  // Online
+} else {
+  // Offline
+}
+
+
+
+<li class="guide-channel guide-notification-item overflowable-list-item " id="VLWL-guide-item" data-visibility-tracking="" aria-role="menuitem">
+      
+  <a class="guide-item yt-uix-sessionlink yt-valign spf-link   " href="/playlist?list=WL" title="Watch Later" data-sessionlink="ei=QuoeVYLOFMTL-gWz9oGYAg&amp;ved=CKECELUsKAQ&amp;feature=g-personal" data-visibility-tracking="" data-external-id="VLWL" data-serialized-endpoint="0qDduQEGEgRWTFdM">
+    <span class="yt-valign-container">
+        <span class="thumb guide-watch-later-icon yt-sprite"></span>
+        <span class="display-name ">
+          <span>
+Offline Content
+          </span>
+        </span>
+    </span>
+          
+
+  </a>
+
+  </li>
